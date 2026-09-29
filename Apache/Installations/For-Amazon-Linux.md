@@ -42,6 +42,7 @@ Apache in Amazon linux is refferd as httpd. This is the installation guide for i
 <img width="1006" height="391" alt="image" src="https://github.com/user-attachments/assets/bb4422b0-f487-41e5-99b0-eba519b2bacd" />
 
 ### Step 6: Enable the service and then check the status
+This will start the service automatically when the machine or server will restart.
 ```
   sudo systemctl enable httpd
 ```
