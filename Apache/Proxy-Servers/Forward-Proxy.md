@@ -7,3 +7,7 @@ security policies, filter content, or cache external resources.
 As represented in this diagram, the proxy server resides in between system and the internet. 
 **_For Example:_** if you are opening the www.example.com then the servers of example will only know that request is coming from proxy server 
 so that way it hides your identity.
+
+## Here are steps for forward proxy:
+
+### Step1: Launch two EC2 Instances
